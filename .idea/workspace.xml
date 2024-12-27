@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e370055-f6ad-4ff4-b5b5-c5b9b8259404" name="Changes" comment="day 1 t o 3 changes" />
+    <list default="true" id="2e370055-f6ad-4ff4-b5b5-c5b9b8259404" name="Changes" comment="day 1 t o 3 changes">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core_Java_Basic/src/main/java/com/mohan/javaBasics/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java_Spring_Boot/src/main/java/com/mohan/javaBasics/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core_Java_Basic/src/main/java/com/mohan/javaBasics/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java_Spring_Boot/src/main/java/com/mohan/javaBasics/Day1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core_Java_Basic/src/main/java/com/mohan/javaBasics/Day2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java_Spring_Boot/src/main/java/com/mohan/javaBasics/Day2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core_Java_Basic/src/main/java/com/mohan/javaBasics/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java_Spring_Boot/src/main/java/com/mohan/javaBasics/Day3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core_Java_Basic/src/main/java/com/mohan/javaBasics/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java_Spring_Boot/src/main/java/com/mohan/javaBasics/Employee.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,10 +63,11 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.CoreJavaBasicApplication.executor": "Run",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/learning_workspace/30daysInterviewprep/Core_Java_Spring_Boot",
+    "last_opened_file_path": "D:/learning_workspace/30daysInterviewprep/Core_Java_Spring_Boot/src/main/java/com/mohan",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -215,6 +224,7 @@
       <workItem from="1735115181316" duration="9570000" />
       <workItem from="1735224012076" duration="1525000" />
       <workItem from="1735310884876" duration="3195000" />
+      <workItem from="1735314667460" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="day 1 t o 3 changes">
       <option name="closed" value="true" />
@@ -237,6 +247,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day 1 t o 3 changes" />
